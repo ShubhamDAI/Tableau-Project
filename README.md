@@ -24,7 +24,7 @@ Analyzed Daikibo's machine telemetry data for May 2021 using Tableau to identify
 ## Objective
 To identify which factory experienced the most downtime and determine which types of machines broke most frequently, helping support data-driven maintenance decisions.
 <img width="721" height="860" alt="Screenshot 2026-10-18 111817" src="https://github.com/user-attachments/assets/a510bae7-0245-40b1-b406-c595a291713e" />
-
+<img width="650" height="846" alt="Screenshot 2026-10-18 111828" src="https://github.com/user-attachments/assets/2fca538e-4f34-459d-b770-46da418e7c2f" />
 <img width="1006" height="842" alt="Screenshot 2026-10-18 110419" src="https://github.com/user-attachments/assets/b0edb72e-39df-42e0-8b40-3cc226c06983" />
 
-<img width="650" height="846" alt="Screenshot 2026-10-18 111828" src="https://github.com/user-attachments/assets/2fca538e-4f34-459d-b770-46da418e7c2f" />
+
