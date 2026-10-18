@@ -1,6 +1,7 @@
 # Daikibo Factory Downtime Analysis – Tableau
 
-Project Link=> <a href="https://public.tableau.com/app/profile/shubham.kumar.mandal/viz/Shubham1stTaskDeloitte/Sheet1">File</a>
+Tableau link -> <a href="https://github.com/ShubhamDAI/Tableau-Project/blob/main/Shubham%201st%20task.twbx"> Tableau File</a>
+Project Link=> <a href="https://public.tableau.com/app/profile/shubham.kumar.mandal/viz/Shubham1stTaskDeloitte/Sheet1">Profile Project</a>
 Tableau Profile link=> <a href="https://public.tableau.com/app/profile/shubham.kumar.mandal/vizzes">Profile Link</a>
 
 ## Project Overview
